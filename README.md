@@ -1,2 +1,2 @@
 ## SPEEDTEST (Balance)
-![](./assets/speedtest-balance.png)
+<img src="./assets/speedtest-balance.png" width="40%">
